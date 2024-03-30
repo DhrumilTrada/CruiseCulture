@@ -224,7 +224,7 @@ $( function() {
     "718",
     "Panamera",
     "Cayenne",
-    "911",
+    "911s",
     "Macan",
     "Cayenne Coupe",
     "Rio",
